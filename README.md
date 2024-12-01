@@ -13,3 +13,6 @@ Future enhancements
 1.  Refactor code
 2.  Showing snakes and ladders on the grids
 3.  Loosly coupled.
+4.  Create dice service separately
+5.  Game end conditions
+6.  Can ask user to provide snakes and ladder cordinates as well
